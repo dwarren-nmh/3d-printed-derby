@@ -16,14 +16,14 @@ description: >-                        # used by seo meta and the atom feed
   fastest car.
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://dwarren-nmh.github.io/3d-printed-derby/'
 
-author: your_full_name                  # change to your full name
+author: David Warren                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: dwarren-nmh             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
