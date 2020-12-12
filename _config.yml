@@ -7,7 +7,7 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: 3D Printed Pinewood Derby                          # the main title
+title: 3D Printed Derby                          # the main title
 
 tagline: NMH Science Club  # it will display as the sub-title
 
@@ -22,19 +22,19 @@ author: David Warren                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
-github:
-  username: dwarren-nmh             # change to your github username
+# github:
+  # username: dwarren-nmh             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+# twitter:
+  # username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: NMH Science Club                  # it will shows as the copyright owner in Footer
+  email: dwarren@nmhschool.org             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    # - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -78,7 +78,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # <light|dark>
+theme_mode:  light # <light|dark>
 
 # boolean type, the global switch for ToC in posts.
 toc: true
