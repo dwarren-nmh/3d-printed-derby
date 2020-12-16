@@ -2,7 +2,7 @@
 title: Designing - 0 - Introduction to Design
 author: David Warren
 date: 2020-12-15 9:19:00 -0500
-categories: [Car Design Tutorials]
+categories: [Designing, Tutorial]
 tags: [Onshape, CAD, Tutorial, Introduction]
 ---
 
