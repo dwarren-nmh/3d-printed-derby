@@ -22,4 +22,4 @@ Be sure to use your NMH email address when you sign up for an account. You shoul
 
 Most tools for 3D modeling are similar, especially if they are used for creating parts to be 3D printed or machined. Watch this video for a quick tutorial on getting acquainted with Onshape before you design your first part.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1KXWGLu9bHbUYXSw0MVwEiWKQ_KVVXy-3/preview" width="100%" height="480"></iframe>
